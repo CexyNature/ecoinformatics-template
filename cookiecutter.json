@@ -1,0 +1,18 @@
+{
+    "full_name": "César Herrera",
+    "email": "c.herreraacosta@griffith.edu.au",
+    "github_username": "cexynature",
+    "project_name": "Eco-Informatics",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "Minimum template for eco-informatic projects.",
+    "version": "0.1.0",
+    "create_author_file": "y",
+    "open_source_license": [
+        "MIT license",
+        "BSD license",
+        "ISC license",
+        "Apache Software License 2.0",
+        "GNU General Public License v3",
+        "Not open source"
+    ]
+}
