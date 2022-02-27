@@ -1,3 +1,4 @@
 cookiecutter>=1.4.0
 sphinx>=4.3.0
+myst-parser
 pytest==5.3.1
