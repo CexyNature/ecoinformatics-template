@@ -382,3 +382,16 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
