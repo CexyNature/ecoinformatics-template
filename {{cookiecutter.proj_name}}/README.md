@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/Version-{{cookiecutter.version}}-<green>.svg)](https://shields.io/)
+
 {{ cookiecutter.project_name }} project
 ===========
 
